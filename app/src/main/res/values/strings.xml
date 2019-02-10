@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DraggableMap</string>
+    <string name="title_activity_maps">DraggableMap</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_location_permission">Location Permission Needed</string>
+
+    <string name="text_location_permission">Allow GoFair to acccess your Location</string>
+    <string name="ok">OK</string>
+    <string name="service_not_available">Service Not Available</string>
+    <string name="invalid_lat_long_used">Invalid Latitude Longitude Used</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="no_location_data_provided">No Location Data Provided</string>
+</resources>
